@@ -4,7 +4,7 @@ import numpy
 import matplotlib.pyplot as plt
 
 graf = numpy.array([
-    [0,1,1,1], #puasson stream intensity to pass to states [s0, s1, s2, s3]
+    [0,1,1,1], #poisson stream intensity to pass to states [s0, s1, s2, s3]
     [0,0,2,0],
     [2,1,0,4],
     [1,0,9,0]
